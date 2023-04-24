@@ -2,7 +2,7 @@
 a discord bot that manages birthdays
 
 to use it,create a bot, get a token from the discord dev page and set it to DISCORD_TOKEN in your environment, enable all of the privelidged gateway intents, then use this link:
-https://discord.com/api/oauth2/authorize?client_id=<bot id>&permissions=57189942414928&scope=bot
+https://discord.com/api/oauth2/authorize?client_id=(bot id)&permissions=57189942414928&scope=bot
 to invite it to your server. 
 you will need to make a  "BIRTDAY" (that is not a typo, thats just what it is.) role, and a birtday-bot channel.
 
