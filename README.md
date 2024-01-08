@@ -1,5 +1,6 @@
 # birtdaybot
-a gratuitously distributed discord bot that manages birthdays.
+a gratuitously distributed discord bot that manages birthdays. Its like this so you can use multiple computers around your house
+to gurentee it stays up even if you shut off all but one.
 
 # operation
 on first interaction each instance sends a response to find out what one is the fastest. 
@@ -10,6 +11,7 @@ to use it; create a bot using discord dev page, get a token from the discord dev
 https://discord.com/api/oauth2/authorize?client_id=<bot id>&permissions=57189942414928&scope=bot
 you will need to make a "BIRTDAY" (that is not a typo, thats just what it is.) role, and a birtday-bot channel. 
 Also a birtday-bot-data channel which should be only visible to birtdaybot (though it doesnt have to be)
+now just make sure you have your token on all your machines and set the bash file to run on startup.
 
 commands:
 
